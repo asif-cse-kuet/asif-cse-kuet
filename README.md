@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ASIF. 
 - 👀 I’m interested in Reserch, Software Development, System Design, Web-Design, AI, ML, SMM, SEM, SEO etc
 - 🌱 I’m currently learning coding, programming, AI, ML, Webdesign, C++, C, Html, Php, Java, Javascript, Jquery, CSS, Bootstrap, Laravel, Node js, React Js
-- I’m looking to collaborate on high-demanding project, research, system or project design, funding for research work, Job, Freelance
+- I’m looking to collaborate on high-demanding project, research, system or project design, funding for research work, Job
 - 📫 How to reach me : mail to asif.cse75@gmail.com
 
 <!---
