@@ -15,7 +15,7 @@
 
 - 🌱 Besides, I have a good grasp of competitive programming, AI, ML and IOT
 - I’m looking to collaborate on high-demanding projects, research, system or project design, funding for research work, Job
-- 📫 How to reach me: mail to asif.cse75@gmail.com
+- 📫 How to reach me: mail to asifhasan.cse75@gmail.com
 
 <!---
 asif-cse-kuet/asif-cse-kuet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
