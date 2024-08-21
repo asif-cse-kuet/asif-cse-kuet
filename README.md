@@ -1,8 +1,8 @@
-- 👋 Hi, I’m **ASIF HASAN TONMOY**, an adept Software Engineer with Expertise in LAMP Stack, Software Architecture Buildup, and C/C++/Php/Java Programming <br><br>
+- 👋 Hi, I’m **ASIF HASAN TONMOY**, a Software Engineer with Expertise in .NET/LAMP/MERN Stack <br><br>
 - **TECHNICAL SKILLS:** <br>
-**Project Management:**  Google Suites, ASANA, Monday, Trello, Slack, Jira, Telegram etc <br>
-**Language:**  C, C++, PHP, JavaScript , Java, Python <br>
-**Framework, Libraries:**  Laravel, React Js, Bootstrap, TailwindCSS <br>
+**Project Management:**  Google Suites, ASANA, Monday, Trello, Slack, Jira, Telegram, etc <br>
+**Language:**  C, C#, C++, PHP, Java, JavaScript, Python <br>
+**Framework, Libraries:**  .Net, Laravel, React Js, Bootstrap, TailwindCSS <br>
 **Web Programming:** HTML5, CSS3 <br>
 **Networking:**  OSI, TCP/IP <br>
 **Web Server:**  Apache <br>
